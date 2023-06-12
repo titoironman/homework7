@@ -1,0 +1,15 @@
+D:\Downloads\C#\homework7\hwtask52\bin\Debug\net6.0\hwtask52.exe
+D:\Downloads\C#\homework7\hwtask52\bin\Debug\net6.0\hwtask52.deps.json
+D:\Downloads\C#\homework7\hwtask52\bin\Debug\net6.0\hwtask52.runtimeconfig.json
+D:\Downloads\C#\homework7\hwtask52\bin\Debug\net6.0\hwtask52.dll
+D:\Downloads\C#\homework7\hwtask52\bin\Debug\net6.0\hwtask52.pdb
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.csproj.AssemblyReference.cache
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.AssemblyInfoInputs.cache
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.AssemblyInfo.cs
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.dll
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\refint\hwtask52.dll
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.pdb
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\hwtask52.genruntimeconfig.cache
+D:\Downloads\C#\homework7\hwtask52\obj\Debug\net6.0\ref\hwtask52.dll

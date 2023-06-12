@@ -1,0 +1,15 @@
+D:\Downloads\C#\homework7\hwtask47\bin\Debug\net6.0\hwtask47.exe
+D:\Downloads\C#\homework7\hwtask47\bin\Debug\net6.0\hwtask47.deps.json
+D:\Downloads\C#\homework7\hwtask47\bin\Debug\net6.0\hwtask47.runtimeconfig.json
+D:\Downloads\C#\homework7\hwtask47\bin\Debug\net6.0\hwtask47.dll
+D:\Downloads\C#\homework7\hwtask47\bin\Debug\net6.0\hwtask47.pdb
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.csproj.AssemblyReference.cache
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.AssemblyInfoInputs.cache
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.AssemblyInfo.cs
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.dll
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\refint\hwtask47.dll
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.pdb
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\hwtask47.genruntimeconfig.cache
+D:\Downloads\C#\homework7\hwtask47\obj\Debug\net6.0\ref\hwtask47.dll
