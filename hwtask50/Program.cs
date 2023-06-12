@@ -20,7 +20,7 @@ PrintArray(numbers);
 
 if (linePosition > numbers.GetLength(0) || columnPosition > numbers.GetLength(1))
 {
-    Console.WriteLine($"Числа в {linePosition} строке, в {columnPosition}-м столбце не существует");
+    Console.WriteLine($"Числа в {linePosition} строке, в {columnPosition}-м столбце не существует.");
 }
 else if (linePosition == 1)
 {

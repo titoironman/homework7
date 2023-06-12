@@ -16,7 +16,7 @@ Console.WriteLine("Ваш массив: ");
 RandomArray(numbers);
 
 PrintArray(numbers);
-Console.Write($"Среднее арифметическое столбцов массива: ");
+Console.WriteLine($"Средние арифметические столбцов массива: ");
 
 for (int j = 0; j < numbers.GetLength(1); j++)
 {
